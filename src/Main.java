@@ -73,6 +73,24 @@ public class Main {
 
 
 
+         int bananGram=5*80;
+         System.out.println(bananGram);
+         int milkGram=105*(200/100);
+         System.out.println(milkGram);
+         int morGram=2*100;
+         System.out.println(morGram);
+         int yaicaGram=4*70;
+         System.out.println(yaicaGram);
+         int zavtrakGram= bananGram+milkGram+morGram+yaicaGram;
+         System.out.println(zavtrakGram);
+         int kg=1000;
+         System.out.println(kg);
+         float zavtrakKg= (float) zavtrakGram/kg;
+         System.out.println(zavtrakKg);
+
+
+
+
 
 
 
