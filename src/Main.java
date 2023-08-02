@@ -89,6 +89,20 @@ public class Main {
          System.out.println(zavtrakKg);
 
 
+         int  sbrosKg=7;
+         System.out.println(sbrosKg);
+         long sbrosGram=1000*sbrosKg;
+         System.out.println(sbrosGram);
+         int gram1=250;
+         System.out.println(gram1);
+         int gram2=500;
+         System.out.println(gram2);
+         long dayGram1=sbrosGram/gram1;
+         System.out.println(dayGram1);
+         long dayGram2=sbrosGram/gram2;
+         System.out.println(dayGram2);
+
+
 
 
 
