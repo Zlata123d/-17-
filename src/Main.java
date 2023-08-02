@@ -43,6 +43,24 @@ public class Main {
         System.out.println(dostalosUcheniku);
 
 
+         int vMin=8;
+         System.out.println(vMin);
+         int but1=20;
+         System.out.println(but1);
+         int butZa20=but1*vMin;
+         System.out.println(butZa20);
+         short sutkiVMin=1440;
+         System.out.println(sutkiVMin);
+         long butSutki=vMin*sutkiVMin;
+         System.out.println(butSutki);
+         long mesVMin=43200;
+         System.out.println(mesVMin);
+         long butMes=vMin*mesVMin;
+         System.out.println(butMes);
+
+
+
+
 
 
 
