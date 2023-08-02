@@ -14,20 +14,33 @@ public class Main {
         double f=34.56;
         System.out.println(f);
 
-        double a=27.12;
-        System.out.println(a);
-        long b=987678965549L;
-        System.out.println(b);
-        float c = 2.786f;
-        System.out.println(c);
-        int  d=569;
-        System.out.println(d);
-        int  e=-159;
-        System.out.println(e);
-        short f=27897;
-        System.out.println(f);
-        byte g=67;
+        double m=27.12;
+        System.out.println(m);
+        long g=987678965549L;
         System.out.println(g);
+        float h = 2.786f;
+        System.out.println(h);
+        int  i=569;
+        System.out.println(i);
+        int  j=-159;
+        System.out.println(j);
+        short k=27897;
+        System.out.println(k);
+        byte l=67;
+        System.out.println(l);
+
+        int ludmilaPavlovna=23;
+        System.out.println(ludmilaPavlovna);
+        int annaSergeevna=27;
+        System.out.println(annaSergeevna);
+        int ekaterinaAndreevna=30;
+        System.out.println(ekaterinaAndreevna);
+        int vsego=480;
+        System.out.println(vsego);
+        int vsegoUchenikov=ludmilaPavlovna+annaSergeevna+ekaterinaAndreevna;
+        System.out.println(vsegoUchenikov);
+        int dostalosUcheniku=vsego/vsegoUchenikov;
+        System.out.println(dostalosUcheniku);
 
 
 
@@ -38,5 +51,7 @@ public class Main {
 
 
 
-        }
+
+
+    }
     }
