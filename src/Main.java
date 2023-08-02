@@ -104,6 +104,32 @@ public class Main {
 
 
 
+         int Masha=67760;
+         System.out.println(Masha);
+        int Denis=83690;
+         System.out.println(Denis);
+        int Kristina=76230;
+         System.out.println(Kristina);
+        int dohod= Masha+Denis+Kristina;
+         System.out.println(dohod);
+        int pribavkaMasha=Masha/100*10;
+         System.out.println(pribavkaMasha);
+        int newMasha=pribavkaMasha+Masha;
+         System.out.println(newMasha);
+        int pribavkaDenis=Denis/100*10;
+         System.out.println(pribavkaDenis);
+        int newDenis=pribavkaDenis+Denis;
+         System.out.println(newDenis);
+        int pribavkaKristina=Kristina/100*10;
+        System.out.println(pribavkaKristina);
+        int newKristina=pribavkaKristina+Kristina;
+        System.out.println(newKristina);
+        int newDohod=newMasha+newDenis+newKristina;
+        System.out.println(newDohod);
+
+
+
+
 
 
 
