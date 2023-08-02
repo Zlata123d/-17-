@@ -58,7 +58,18 @@ public class Main {
          long butMes=vMin*mesVMin;
          System.out.println(butMes);
 
-
+         int banokVsego=120;
+         System.out.println(banokVsego);
+         int bell=2;
+         System.out.println(bell);
+         int kor=4;
+         System.out.println(kor);
+         int vsegoKlassov= banokVsego/(bell+kor);
+         System.out.println(vsegoKlassov);
+         int vsegoBell=vsegoKlassov*bell;
+         System.out.println(vsegoBell);
+         int vsegoKor= vsegoKlassov*kor;
+         System.out.println(vsegoKor);
 
 
 
